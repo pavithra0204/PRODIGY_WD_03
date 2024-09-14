@@ -1,0 +1,1 @@
+As a web development intern at PRODIGY I have created a Tic-Tac-Toe game using HTML, CSS, JavaScript and here application allows two players to play against eahc other.It also includes a simple restart button and displays current game status.
